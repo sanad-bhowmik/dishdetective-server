@@ -2,9 +2,16 @@ const express = require('express')
 const app = express();
 const port = process.env.PORT || 5000;
 
-app.get('/', (req,res) => {
+const chef = require('./data/chef.json')
+
+app.get('/', (req, res) => {
     res.send('your server ins running')
 })
+// for chef port
+app.get('/chef', (req, res) => {
+    res.send(chef);
+})
+// for chef port
 
 app.listen(port, () => {
     console.log(`your api is running on : ${port}`);

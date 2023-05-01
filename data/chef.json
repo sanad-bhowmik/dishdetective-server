@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "chef_picture": "https://im.rediff.com/getahead/2017/sep/06chefvikaskhanna.jpg",
+    "chef_name": "Vikas Khanna",
+    "years_of_experience": 20,
+    "number_of_recipes": 500,
+    "likes": 25000,
+    "chef_bio": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef India. He has been awarded the Michelin star for his restaurant, Junoon, in New York City."
+  },
+  {
+    "id": "02",
+    "chef_picture": "https://static.toiimg.com/photo/msid-74005622/74005622.jpg",
+    "chef_name": "Sanjeev Kapoor",
+    "years_of_experience": 30,
+    "number_of_recipes": 1000,
+    "likes": 50000,
+    "chef_bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known for his cooking show, Khana Khazana, which is the longest running show of its kind in Asia."
+  },
+  {
+    "id": "03",
+    "chef_picture": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/05/24/Pictures/_e80e4e42-7e50-11e9-8a88-8b84fe2ad6da.jpeg",
+    "chef_name": "Madhur Jaffrey",
+    "years_of_experience": 40,
+    "number_of_recipes": 700,
+    "likes": 30000,
+    "chef_bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is known for her contributions to Indian cuisine and her cookbooks, such as 'An Invitation to Indian Cooking' and 'Madhur Jaffrey's Ultimate Curry Bible'."
+  },
+  {
+    "id": "04",
+    "chef_picture": "https://upload.wikimedia.org/wikipedia/en/a/a1/Ranveer_Brar_Wiki_Image.jpg",
+    "chef_name": "Ranveer Brar",
+    "years_of_experience": 15,
+    "number_of_recipes": 300,
+    "likes": 20000,
+    "chef_bio": "Ranveer Brar is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cooking shows, including 'The Great Indian Rasoi', 'Breakfast Xpress', and 'Snack Attack'."
+  },
+  {
+    "id": "05",
+    "chef_picture": "https://media.licdn.com/dms/image/C4D03AQE5iofq5OLD0w/profile-displayphoto-shrink_800_800/0/1642388582820?e=2147483647&v=beta&t=Dniuw4c382eWCpe6FjMLdGt4BCSZO77Q9Nnq4okzJYU",
+    "chef_name": "Shipra Khanna",
+    "years_of_experience": 10,
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "chef_bio": "Shipra Khanna is an Indian celebrity chef and winner of MasterChef India Season 2. She has hosted several cooking shows, including 'Pure Sin' and 'Kitchen Stars'"
+  },
+  {
+    "id": "06",
+    "chef_picture": "hhttps://wikibio.in/wp-content/uploads/2021/09/Gaggan-Anand.jpg",
+    "chef_name": "Gaggan Anand",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 40000,
+    "chef_bio": "Gaggan Anand is an Indian celebrity chef and owner of the restaurant, Gaggan, in Bangkok, Thailand. His restaurant has been named the best in Asia several times and he has been awarded two Michelin stars."
+  }
+]
