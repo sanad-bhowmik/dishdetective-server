@@ -33,7 +33,7 @@ app.get('/recipe/:id', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
     const id = parseInt(req.params.id);
-    console.log(id);
+    // console.log(id);
     const chefRecipe = recipe.filter(n => parseInt(n.chef_id) === id);
     res.send(chefRecipe)
 
