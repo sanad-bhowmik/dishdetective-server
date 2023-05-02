@@ -9,6 +9,7 @@
     "likes": 25000,
     "chef_bio": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef India. He has been awarded the Michelin star for his restaurant, Junoon, in New York City.",
     "recipe_name": "Butter Chicken",
+    "pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
     "ingredients": "chicken,tomato puree,cream,butter,garam masala",
     "cooking_method": "Cook marinated chicken, then simmer in tomato puree, spices, and cream.",
     "rating": 4.8
@@ -17,6 +18,7 @@
     "_id": "919db97c34e0778b387dd40cdfa08130",
     "chef_id": "01",
     "recipe_name": "Dal Makhani",
+    "pic": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/01/dal-makhani-recipe-1-500x375.jpg",
     "ingredients": "black lentils, kidney beans, tomato puree, cream, garam masala",
     "cooking_method": "Cook lentils and beans, then simmer in tomato puree and spices, finish with cream.",
     "rating": 4.7
@@ -25,6 +27,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "chef_id": "01",
     "recipe_name": "Aloo Gobi",
+    "pic": "https://www.seriouseats.com/thmb/gTVjyFHq-N3iyv08113cBQWCTv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-aloo-gobi-vicky-wasik-35-c9afccd574534761886e5964f34586e1.jpg",
     "ingredients": "potatoes, cauliflower, onion, tomato, cumin seeds",
     "cooking_method": "Saute cumin seeds, onion, and tomato, then add potatoes and cauliflower, cook until tender.",
     "rating": 4.6
@@ -39,6 +42,7 @@
     "likes": 50000,
     "chef_bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known for his cooking show, Khana Khazana, which is the longest running show of its kind in Asia.",
     "recipe_name": "Butter Chicken",
+    "pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
     "ingredients": "chicken, tomato puree, cream, butter, garam masala",
     "cooking_method": "Cook marinated chicken, then simmer in tomato puree, spices, and cream.",
     "rating": 4.8
@@ -47,7 +51,7 @@
     "_id": "11468ed61aee84de492a8b04158a22f9",
     "chef_id": "02",
     "recipe_name": "Chole Bhature",
-    "ingredients": "chickpeas, onion,tomato, garam masala, all-purpose flour",
+    "pic": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg",
     "cooking_method": "Cook chickpeas in onion-tomato masala, serve with deep-fried bread made from all-purpose flour.",
     "rating": 4.5
   },
@@ -55,6 +59,7 @@
     "_id": "11468ed61aee84de492a8b04158a22f0",
     "chef_id": "02",
     "recipe_name": "Biryani",
+    "pic": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/xbnd6cutdpzy03n9votk",
     "ingredients": "basmati rice, chicken, onion, yogurt, biryani masala",
     "cooking_method": "Cook marinated chicken and rice separately, then layer and cook together.",
     "rating": 4.9
@@ -69,6 +74,7 @@
     "likes": 30000,
     "chef_bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is known for her contributions to Indian cuisine and her cookbooks, such as 'An Invitation to Indian Cooking' and 'Madhur Jaffrey's Ultimate Curry Bible'.",
     "recipe_name": "Rogan Josh",
+    "pic": "https://www.recipetineats.com/wp-content/uploads/2020/02/Rogan-Josh_5.jpg",
     "ingredients": "lamb, onion, tomato, yogurt, kashmiri red chili powder",
     "cooking_method": "Cook lamb in onion-tomato masala, then simmer in yogurt and spices.",
     "rating": 4.7
@@ -77,6 +83,7 @@
     "_id": "a713ee936ff5574273f0f769f5c5b20e",
     "chef_id": "03",
     "recipe_name": "Baingan Bharta",
+    "pic": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
     "ingredients": "eggplant, onion, tomato, ginger, garam masala",
     "cooking_method": "Roast eggplant, then cook with onion, tomato, and spices.",
     "rating": 4.6
@@ -85,6 +92,7 @@
     "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     "chef_id": "03",
     "recipe_name": "Chicken Korma",
+    "pic": "https://www.chilipeppermadness.com/wp-content/uploads/2019/03/Chicken-Korma-SQ.jpg",
     "ingredients": "chicken, onion, yogurt, cashew paste, korma masala",
     "cooking_method": "Cook chicken in onion-yogurt masala, then simmer in cashew paste and spices.",
     "rating": 4.8
@@ -99,6 +107,7 @@
     "likes": 20000,
     "chef_bio": "Ranveer Brar is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cooking shows, including 'The Great Indian Rasoi', 'Breakfast Xpress', and 'Snack Attack'.",
     "recipe_name": "Pav Bhaji",
+    "pic": "https://assets.bonappetit.com/photos/63cb14735125107865c0fe8f/1:1/w_2560%2Cc_limit/012023-pav-bhaji-lede.jpg",
     "ingredients": "mixed vegetables, onion, tomato, pav bhaji masala, butter",
     "cooking_method": "Cook mashed vegetables in onion-tomato masala, serve with buttered bread.",
     "rating": 4.5
@@ -107,6 +116,7 @@
     "_id": "f06f8cc035b04bd1158e4198281915a3",
     "chef_id": "04",
     "recipe_name": "Dhokla",
+    "pic": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
     "ingredients": "gram flour, yogurt, turmeric, asafoetida, mustard seeds",
     "cooking_method": "Steam gram flour and yogurt batter, then temper with mustard seeds and spices.",
     "rating": 4.6
@@ -115,6 +125,7 @@
     "_id": "f06f8cc035b04bd1158e4198281915a4",
     "chef_id": "04",
     "recipe_name": "Pani Puri",
+    "pic": "https://www.cookingcarnival.com/wp-content/uploads/2015/04/Pani-puri-3.jpg",
     "ingredients": "semolina, tamarind,mint, cumin powder, chickpeas",
     "cooking_method": "Make semolina puris, stuff with chickpeas, and serve with tamarind-mint water.",
     "rating": 4.7
@@ -129,6 +140,7 @@
     "likes": 15000,
     "chef_bio": "Shipra Khanna is an Indian celebrity chef and winner of MasterChef India Season 2. She has hosted several cooking shows, including 'Pure Sin' and 'Kitchen Stars'",
     "recipe_name": "Gulab Jamun",
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg/1200px-Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg",
     "ingredients": "milk powder, sugar, rose water, all-purpose flour, cardamom",
     "cooking_method": "Make milk powder dough balls, deep fry, then soak in sugar-rose water syrup.",
     "rating": 4.8
@@ -137,6 +149,7 @@
     "_id": "319db97c34e0098b387dd40cdfa08130",
     "chef_id": "05",
     "recipe_name": "Dal Makhani",
+    "pic": "https://www.cookwithmanali.com/wp-content/uploads/2019/04/Restaurant-Style-Dal-Makhani.jpg",
     "ingredients": "black lentils, kidney beans, tomato puree, cream, garam masala",
     "cooking_method": "Cook lentils and beans, then simmer in tomato puree and spices, finish with cream.",
     "rating": 4.7
@@ -144,7 +157,8 @@
   {
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
     "chef_id": "05",
-    "recipe_name": "GMasoor Dal",
+    "recipe_name": "Masoor Dal",
+    "pic": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/09/Instant-Pot-Whole-Masoor-Dal-Recipe.jpg",
     "ingredients": "red lentils, onion, tomato, turmeric, cumin seeds",
     "cooking_method": "Cook red lentils, then temper with cumin seeds, onion, tomato, and spices.",
     "rating": 4.5
@@ -159,6 +173,7 @@
     "likes": 40000,
     "chef_bio": "Gaggan Anand is an Indian celebrity chef and owner of the restaurant, Gaggan, in Bangkok, Thailand. His restaurant has been named the best in Asia several times and he has been awarded two Michelin stars.",
     "recipe_name": "Tandoori Chicken",
+    "pic": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg",
     "ingredients": "chicken, yogurt, tandoori masala, lemon juice, ginger-garlic paste",
     "cooking_method": "Marinate chicken in yogurt and spices, then cook in a tandoor or oven.",
     "rating": 4.9
@@ -167,6 +182,7 @@
     "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
     "chef_id": "06",
     "recipe_name": "Fish Amritsari",
+    "pic": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/amritsari-fried-fish-scaled-e1621348565229.jpeg?v=1618226070",
     "ingredients": "fish fillets,gram flour, ajwain, ginger-garlic paste, chaat masala",
     "cooking_method": "Marinate fish in gram flour and spices, then deep fry until golden.",
     "rating": 4.7
@@ -175,6 +191,7 @@
     "_id": "df11ff9feefc37613cc3a4486ce02151",
     "chef_id": "06",
     "recipe_name": "Mango Lassi",
+    "pic": "https://www.simplyrecipes.com/thmb/7oZrY9CXkHSqrV6diryN7Kwyups=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Mango-Lassi-LEAD-08-9b45bb7d7d6d45a79deee3013f2f3cf1.jpg",
     "ingredients": "mango, yogurt, sugar, cardamom, ice",
     "cooking_method": "Blend mango, yogurt, sugar, cardamom, and ice until smooth.",
     "rating": 4.6
